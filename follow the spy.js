@@ -1,3 +1,7 @@
+// We are tracking down our rogue agent and she travels from place to place to avoid being tracked. Each of her travels are based on a list of itineraries in an unusual or incorrect order. The task is to determine the complete route she will take.
+
+// You are given an array of routes containing her travel itineraries. Convert this into a complete, in-order list of the places she will travel.
+
 function trackRoute(routes) {
    // declared variable to store tracked route
   const route = [];
